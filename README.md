@@ -15,6 +15,10 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 Implementing Naive Bayes Classifier using Spark MapReduce  
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4636605037478694/3933656936038108/2046848112049253/latest.html 
 
+Refer to A2.pdf for pseudocode steps for each part  
+
 # A3:  
 Spark Streaming with Real Time Data and Kafka  
 Analyzing Social Networks using GraphX/GraphFrame  
+
+Refer to A3 folder for Python code, README files, and an explanation of results in A3.pdf  
